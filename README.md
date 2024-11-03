@@ -9,9 +9,10 @@ The main goal of this project is to apply and reinforce my knowledge of HTML by 
 - Links
 - Images
 - Lists and other essential HTML elements
+git
 
 ## Technologies Used
 - **HTML**: For structuring the content of the website
 
 ## About the Project
-As I work on this project, I’ll focus on solidifying my understanding of HTML structure and best practices. Each recipe link will direct users to external sources or individual pages, showcasing various ways to organize and link content.
+As I work on this project, I'll focus on solidifying my understanding of HTML structure and best practices. Each recipe link will direct users to external sources or individual pages, showcasing various ways to organize and link content.
