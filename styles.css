@@ -8,7 +8,7 @@
     font-size: 60px;
 }
 
-.title, .sub-title, a {
+.title, .sub-title, a, h2 {
     color: hsl(22, 17%, 44%);
 }
 
@@ -22,16 +22,31 @@
     font-size: 47px;
 }
 
-.intro-paragraph, li {
+.intro-paragraph, li, p {
     color: hsl(22, 27%, 48%);
 }
 
-li, a {
+.a-recipe, a {
     list-style-type: none;
     text-decoration: none;
 }
 
-a {
+a, h2 {
     font-size: 30px;
     font-weight: 700
+}
+
+.cake-img {
+    height: auto;
+    height: 700px;
+    width: 1290px;
+    display: block; margin-left: auto; margin-right: auto;
+}
+
+.info-paragraph {
+    font-size: 20px;
+}
+
+.ingredients, .steps {
+    font-size: 25px;
 }
