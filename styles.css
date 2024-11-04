@@ -1,0 +1,37 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: hsl(11, 11%, 81%);
+}
+
+.title, .sub-title {
+    text-align: center;
+    font-size: 60px;
+}
+
+.title, .sub-title, a {
+    color: hsl(22, 17%, 44%);
+}
+
+.vainilla-pie-img {
+    float: right;
+    height: 400px;
+    width: 800px;
+}
+
+.intro-paragraph {
+    font-size: 47px;
+}
+
+.intro-paragraph, li {
+    color: hsl(22, 27%, 48%);
+}
+
+li, a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    font-size: 30px;
+    font-weight: 700
+}
